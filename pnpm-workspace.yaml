@@ -1,0 +1,5 @@
+packages:
+  # 存放component
+  - packages/*
+  # 存放组件测试的代码
+  - example
