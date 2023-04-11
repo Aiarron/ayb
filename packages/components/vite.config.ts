@@ -36,7 +36,7 @@ export default defineConfig({
     },
     lib: {
       entry: "./index.js",
-      name: "ayb",
+      name: "lvyb",
       formats: ["es", "cjs"],
     },
   },
