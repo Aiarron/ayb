@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, watch, onMounted } from 'vue'
-import lvTable from './components/lv-table/index.vue'
-import type { TableColumnProps } from './components/lv-table/props'
+import lvTable from './lv-table/src/index.vue'
+import type { TableColumnProps } from './lv-table/src/props'
 
 const tableData = ref<Record<string, any>[]>([])
 const tableColumnProps = ref<TableColumnProps[]>([

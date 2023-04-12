@@ -1,3 +1,3 @@
-import LvTable from "./components/lv-table/index";
+import LvTable from "./lv-table/index";
 export { LvTable };
 export default [LvTable];
