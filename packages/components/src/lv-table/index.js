@@ -1,4 +1,4 @@
-import withInstall from "../utils/withInstall";
+import { withInstall } from "../utils/index";
 
 import LTable from "./src/index.vue";
 

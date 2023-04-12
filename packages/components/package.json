@@ -1,7 +1,7 @@
 {
   "name": "@lvyb/components",
   "private": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "main": "./dist/lib/index.js",
   "module": "./dist/es/index.js",
@@ -11,6 +11,11 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiarron/ayb.git",
+    "directory": "packages/@lvyb/components"
   },
   "scripts": {
     "dev": "vite",
